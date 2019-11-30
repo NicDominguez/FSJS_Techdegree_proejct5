@@ -1,2 +1,2 @@
-# FSJS_Techdegree_proejct5
+# FSJS_Techdegree_project5
  Project 5 - Public API Requsts
